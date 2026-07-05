@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "Bugadinholobbys.aternos.me",
+  "serverPort": 38401,
+  "botUsername": "bot local",
   "botChunk": 1
 }
