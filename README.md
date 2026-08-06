@@ -47,9 +47,9 @@ npm install
 
 ```json
 {
-  "serverHost": "yourserver.aternos.me",
-  "serverPort": 25565,
-  "botUsername": "MyBotName",
+  "serverHost": "Bugadinholobbys.aternos.me",
+  "serverPort": 38401,
+  "botUsername": "afkbot",
   "botChunk": 4
 }
 ```
